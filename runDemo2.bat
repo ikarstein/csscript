@@ -1,0 +1,1 @@
+call "csscript.bat" "testwin\testwin\program.cs" "Greetings" "from" "germany" "!" ":-)"
